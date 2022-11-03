@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400;1,500&family=Raleway:wght@100;300;400;500;700;900&display=swap');
+
+#hero{
+	padding: 1% 0;
+	background-color: #ffffff;
+}
+
+h1{
+	color: #000000;
+	font-size: 65px;
+	font-weight: 750;
+}
+.btn-twillo{
+	background-color: #000000;
+	color: #fff;
+	padding: 12px 30px;
+	font-size: 16px;
+	font-weight: 500;
+	margin-right: 10px;
+}
+
+.btn-primary{
+	background-color: #feda79;
+	border-color: #feda79;
+	color: #000000;
+	font-weight: 700;
+}
+
+.btn-contact{
+	background-color: #000000;
+	color: #fff;
+	padding: 12px 30px;
+	font-size: 16px;
+	font-weight: 500;
+	margin-right: 10px;
+}
+
+.thelifecompany{
+	text-align: left;
+	margin-top: 50px;
+	padding: 10% 0;
+}
+
+.list-inline{
+	margin: 70px;
+}
+
+.list-inline-item{
+	margin: 60px;
+}
+
+#about{
+	padding: 10% 0;
+	background-color: #cce4e4;
+}
+
+#worldwide{
+	margin: 100px;
+	background-color: #ffffff;
+	text-align: center;
+}
+
+#subscribe{
+	background-color:#d6baf5;
+	padding: 8% 0;
+}
+
+#footer{
+	margin: 50px;
+	background-color: #ffffff;
+	text-align: center;
+	
+}
+
+h3{
+	color: #000000;
+	font-weight: 800;
+	font-size: 50px;
+}
+
+avlwrld{
+	padding: 1% 0;
+}
+
+.h5{
+	font-size: 20px;
+	font-weight: 650;
+}
+
+.icons{
+	font-weight:650;
+}
